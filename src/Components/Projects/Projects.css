@@ -17,7 +17,7 @@
 .project_tabs {
   display: flex;
   justify-content: center;
-  margin-top: 80px;
+  margin-top: 0px;
   margin-bottom: 80px;
   gap: 20px;
   z-index: 0;
